@@ -70,12 +70,12 @@ wget "http://zlib.net/fossils/zlib-1.2.8.tar.gz"
 #
 # 下载本扩展
 #
-git clone https://github.com/cuber/ngx_http_google_filter_module
+git clone https://github.com/MaRuifu/ngx_http_google_filter_module
 
 #
 # 下载 substitutions 扩展
 #
-git clone https://github.com/yaoweibin/ngx_http_substitutions_filter_module
+git clone https://github.com/MaRuifu/ngx_http_substitutions_filter_module
 
 #
 # 解压缩
